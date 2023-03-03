@@ -1,6 +1,6 @@
 /////////////////////////////////////////////////////////////////////////////////////////////////////
-//Name: Eddie G. Pineda Castelan																   //
-//Date: 12/01/2022																				   //
+//Name: Eddie G. Pineda Castelan								   //
+//Date: 12/01/2022										   //
 //Program Statement: Design a class AbstractSort to analyze the number of comparisons performed    //
 //                   by a sorting algorithm. The class should have:                                //
 //                      *Member function compare that compares two array elements                  //
